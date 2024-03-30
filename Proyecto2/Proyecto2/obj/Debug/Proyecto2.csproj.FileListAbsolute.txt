@@ -1,0 +1,60 @@
+C:\Users\mairg\OneDrive\Desktop\UH EJERCICIOS\Progra.2\Proyecto2\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe.config
+C:\Users\mairg\OneDrive\Desktop\UH EJERCICIOS\Progra.2\Proyecto2\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe
+C:\Users\mairg\OneDrive\Desktop\UH EJERCICIOS\Progra.2\Proyecto2\Proyecto2\Proyecto2\bin\Debug\Proyecto2.pdb
+C:\Users\mairg\OneDrive\Desktop\UH EJERCICIOS\Progra.2\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.AssemblyReference.cache
+C:\Users\mairg\OneDrive\Desktop\UH EJERCICIOS\Progra.2\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Form1.resources
+C:\Users\mairg\OneDrive\Desktop\UH EJERCICIOS\Progra.2\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Properties.Resources.resources
+C:\Users\mairg\OneDrive\Desktop\UH EJERCICIOS\Progra.2\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.GenerateResource.cache
+C:\Users\mairg\OneDrive\Desktop\UH EJERCICIOS\Progra.2\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\mairg\OneDrive\Desktop\UH EJERCICIOS\Progra.2\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.exe
+C:\Users\mairg\OneDrive\Desktop\UH EJERCICIOS\Progra.2\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.pdb
+C:\Users\Pri23\Desktop\Proyecto2\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe.config
+C:\Users\Pri23\Desktop\Proyecto2\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe
+C:\Users\Pri23\Desktop\Proyecto2\Proyecto2\Proyecto2\bin\Debug\Proyecto2.pdb
+C:\Users\Pri23\Desktop\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.AssemblyReference.cache
+C:\Users\Pri23\Desktop\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Form1.resources
+C:\Users\Pri23\Desktop\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Properties.Resources.resources
+C:\Users\Pri23\Desktop\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.GenerateResource.cache
+C:\Users\Pri23\Desktop\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\Pri23\Desktop\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.exe
+C:\Users\Pri23\Desktop\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.pdb
+C:\Users\madra10\Downloads\Proyecto2\Proyecto2\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe.config
+C:\Users\madra10\Downloads\Proyecto2\Proyecto2\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe
+C:\Users\madra10\Downloads\Proyecto2\Proyecto2\Proyecto2\Proyecto2\bin\Debug\Proyecto2.pdb
+C:\Users\madra10\Downloads\Proyecto2\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.AssemblyReference.cache
+C:\Users\madra10\Downloads\Proyecto2\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Form1.resources
+C:\Users\madra10\Downloads\Proyecto2\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Properties.Resources.resources
+C:\Users\madra10\Downloads\Proyecto2\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.GenerateResource.cache
+C:\Users\madra10\Downloads\Proyecto2\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\madra10\Downloads\Proyecto2\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.exe
+C:\Users\madra10\Downloads\Proyecto2\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.pdb
+C:\Users\Pri23\Downloads\Proyecto2\Proyecto2\Proyecto2\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe.config
+C:\Users\Pri23\Downloads\Proyecto2\Proyecto2\Proyecto2\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe
+C:\Users\Pri23\Downloads\Proyecto2\Proyecto2\Proyecto2\Proyecto2\Proyecto2\bin\Debug\Proyecto2.pdb
+C:\Users\Pri23\Downloads\Proyecto2\Proyecto2\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.AssemblyReference.cache
+C:\Users\Pri23\Downloads\Proyecto2\Proyecto2\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Form1.resources
+C:\Users\Pri23\Downloads\Proyecto2\Proyecto2\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Properties.Resources.resources
+C:\Users\Pri23\Downloads\Proyecto2\Proyecto2\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.GenerateResource.cache
+C:\Users\Pri23\Downloads\Proyecto2\Proyecto2\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\Pri23\Downloads\Proyecto2\Proyecto2\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.exe
+C:\Users\Pri23\Downloads\Proyecto2\Proyecto2\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.pdb
+C:\Users\madra10\Downloads\Proyecto2\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe.config
+C:\Users\madra10\Downloads\Proyecto2\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe
+C:\Users\madra10\Downloads\Proyecto2\Proyecto2\Proyecto2\bin\Debug\Proyecto2.pdb
+C:\Users\madra10\Downloads\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.AssemblyReference.cache
+C:\Users\madra10\Downloads\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Form1.resources
+C:\Users\madra10\Downloads\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Properties.Resources.resources
+C:\Users\madra10\Downloads\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.GenerateResource.cache
+C:\Users\madra10\Downloads\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\madra10\Downloads\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.exe
+C:\Users\madra10\Downloads\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.pdb
+C:\Users\Pri23\Downloads\Proyecto2\Proyecto2\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe.config
+C:\Users\Pri23\Downloads\Proyecto2\Proyecto2\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe
+C:\Users\Pri23\Downloads\Proyecto2\Proyecto2\Proyecto2\Proyecto2\bin\Debug\Proyecto2.pdb
+C:\Users\Pri23\Downloads\Proyecto2\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.AssemblyReference.cache
+C:\Users\Pri23\Downloads\Proyecto2\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Form1.resources
+C:\Users\Pri23\Downloads\Proyecto2\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Properties.Resources.resources
+C:\Users\Pri23\Downloads\Proyecto2\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.GenerateResource.cache
+C:\Users\Pri23\Downloads\Proyecto2\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\Pri23\Downloads\Proyecto2\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.exe
+C:\Users\Pri23\Downloads\Proyecto2\Proyecto2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.pdb
